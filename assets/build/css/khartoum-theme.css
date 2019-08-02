@@ -1,0 +1,50 @@
+
+@font-face {
+    font-family: "ChangaExtraLight";
+    src: url("../fonts/Changa-ExtraLight.ttf") format("truetype")
+   }
+
+
+body
+{
+    background:#fff;
+    font-family: ChangaExtraLight
+}
+.left_col , .site_title
+ {
+    background: #22303e;
+ }
+ .site_title
+ {
+    border-bottom: 1px solid #afb1b3;
+ }
+ .site_title i {
+     border: none;
+    padding: 5px 6px;
+    border-radius:0 ;
+    color: #e2a004;
+ }
+ .nav.side-menu>li>a:hover
+ {
+    color: #ffffff!important;
+    background: 0 0;
+    font-size: 14px;
+ }
+
+ .gold
+ {
+    color: #e2a004;
+ }
+.red-dark
+ {
+    color: #c70808;
+ }
+ .bg-dark
+ {
+    background: #22303e;
+ }
+
+ ul.msg_list li a .time
+ {
+     font-style: normal
+ }
