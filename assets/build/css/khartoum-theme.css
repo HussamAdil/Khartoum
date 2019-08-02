@@ -30,7 +30,10 @@ body
     background: 0 0;
     font-size: 14px;
  }
-
+ .sidebar-footer
+ {
+    background: #22303e;
+ }
  .gold
  {
     color: #e2a004;
@@ -47,4 +50,8 @@ body
  ul.msg_list li a .time
  {
      font-style: normal
+ }
+.green-dark
+ {
+    color: #06b93d;
  }
