@@ -7,8 +7,7 @@
 
 body
 {
-    background:#fff;
-    font-family: ChangaExtraLight
+     font-family: ChangaExtraLight
 }
 .left_col , .site_title
  {
@@ -55,3 +54,14 @@ body
  {
     color: #06b93d;
  }
+ .nav.side-menu>li.active, .nav.side-menu>li.current-page
+ {
+   border-left :0 
+ }
+ .nav.side-menu>li.active>a
+ {
+   text-shadow: none;
+   background: #263646;
+   box-shadow: none;
+ }
+ 
