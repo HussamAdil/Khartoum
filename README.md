@@ -9,13 +9,13 @@ because it's give us power of include files  [ header | footer ]  instead of dup
 
 ## Theme File Structures 
 	assets
-			   build
-						- css
-						- js 
-						- fonts 
-						- images
-			   vendors 
-				   - All dependencies libraries
+	       build
+			 - css
+			 - js 
+			 - fonts 
+			 - images
+              vendors 
+			 - All dependencies libraries
 
 	layouts
                 - header.php
