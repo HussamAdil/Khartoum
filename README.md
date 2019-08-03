@@ -7,7 +7,7 @@ Theme uses several libraries for charts, calendar, form validation, wizard style
 
 because it's give us power of include files  [ header | footer ]  instead of duplicate them over and over . 
 
-## Theme File Structures 
+## Theme Files Structure 
 	assets
 	       build
 			 - css
